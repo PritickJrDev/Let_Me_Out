@@ -1,0 +1,47 @@
+fileFormatVersion: 2
+guid: 2b14e78e2b7f5644db0d8bdf18d0ddd7
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Death.001
+    second: {fileID: 7400000, guid: 1e04651722bad534c833dd85099364d8, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Iddle
+    second: {fileID: 7400000, guid: 0ee75cfcb131f104ea512fd7adc97852, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Run.001
+    second: {fileID: 7400000, guid: 823bf6244f2fc3246bb3c5645eb1b033, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_-_Root
+    second: {fileID: 2100000, guid: 0a6231ae721d8eb4da3539486a1c80df, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Scene_-_Root_emissive
+    second: {fileID: 2800000, guid: c1f0f1f0f17276b4ab39a12119fdd465, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Scene_-_Root_normal.normal
+    second: {fileID: 2800000, guid: ddf20063c7bdd044291388b84667dd49, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Scene_-_Root_occlusion.standard
+    second: {fileID: 2800000, guid: 13b4b96710fc61b4fbfca0438879452a, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: aecd2106718f2444db3ca21345da2cef, type: 3}
+  reverseAxis: 0
+  renderPipeline: 1

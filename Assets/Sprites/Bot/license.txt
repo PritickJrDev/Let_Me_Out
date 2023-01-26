@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bot-2
+* source:	https://sketchfab.com/3d-models/bot-2-2a5296daf4804ff99a819c80de3962ef
+* author:	JohanKL (https://sketchfab.com/JohanKL)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bot-2" (https://sketchfab.com/3d-models/bot-2-2a5296daf4804ff99a819c80de3962ef) by JohanKL (https://sketchfab.com/JohanKL) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

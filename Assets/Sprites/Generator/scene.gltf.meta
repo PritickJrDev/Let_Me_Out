@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: c8931ec60bce44647ad9355c99922fbf
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default
+    second: {fileID: 2100000, guid: 271a82bbeae89e54bbb2ab9920a1203f, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: default_baseColor
+    second: {fileID: 2800000, guid: 63725e7c6168ed0499fd0a428083fbd1, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: default_metallicRoughness.standard
+    second: {fileID: 2800000, guid: 5d615c45bca165146a264dcf08e192ec, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: default_normal.normal
+    second: {fileID: 2800000, guid: dde32be1ed0d6a14ba8c306fd493c1dc, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: aecd2106718f2444db3ca21345da2cef, type: 3}
+  reverseAxis: 0
+  renderPipeline: 1

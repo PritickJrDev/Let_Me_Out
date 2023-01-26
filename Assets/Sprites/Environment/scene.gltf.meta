@@ -1,0 +1,57 @@
+fileFormatVersion: 2
+guid: ce88a133b50359d43ac639f5566666f4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No_opacity
+    second: {fileID: 2100000, guid: 82831511239601843b8c199239eb00e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: 6615b8876bad404499b52c6954fcb429, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: with_opacity
+    second: {fileID: 2100000, guid: 7b1772c41bcf8bd43be05316fe7772db, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: No_opacity_baseColor
+    second: {fileID: 2800000, guid: 90ca8dca597ddec46864bfd44574cc15, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: No_opacity_metallicRoughness.standard
+    second: {fileID: 2800000, guid: 1c287eb911df03045a25a71f0319490f, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: No_opacity_normal.normal
+    second: {fileID: 2800000, guid: d73f6243e8175d0428044ec5d6092656, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: with_opacity_baseColor
+    second: {fileID: 2800000, guid: b2f9ed6cf6e10814fb6e8b2b88712f81, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: with_opacity_metallicRoughness.standard
+    second: {fileID: 2800000, guid: 652f92ecd453ef045a9e01d7db983f0a, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: with_opacity_normal.normal
+    second: {fileID: 2800000, guid: 81c7510811993dd41b087a3ba5e1ba63, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: aecd2106718f2444db3ca21345da2cef, type: 3}
+  reverseAxis: 0
+  renderPipeline: 1
